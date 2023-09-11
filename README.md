@@ -1,2 +1,2 @@
-# art-galaxy-app
-Art galaxy app build with reactJs and MUI
+# galax
+Beautiful gallery app build using reactJs and MUI
