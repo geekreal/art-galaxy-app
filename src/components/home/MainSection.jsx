@@ -42,7 +42,7 @@ const MainSection = () => {
                 <Zoom in={true} style={{transitionDelay:'2500ms'}}>
                     <Container className={classes.welcomeContainer}>
                         <Typography className={classes.welcomeTitle} variant='d'>
-                            Bievenu dans GALAX
+                            Bienvenue dans GALAX
                         </Typography>
                         <br />
                         <Typography className={classes.welcomeDesc} variant='h4'>
