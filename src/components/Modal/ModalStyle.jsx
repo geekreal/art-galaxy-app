@@ -7,12 +7,15 @@ const ModalStyle = makeStyles((theme) => ({
     position: 'absolute',
     top: '50%',
     left: '50%',
-    transform: 'translate(-50%, -50%)',
     width: '500px',
+    transform: 'translate(-50%, -50%)',
     border: '2px solid #1c1c1c',
     boxShadow: 24,
     borderRadius: 20,
-    color: '#2f2f2f'
+    color: '#2f2f2f',
+    [theme.breakpoints.down('lg')] : {
+      width: 'auto',
+    }
   },
 
   formContainer: {
