@@ -14,7 +14,7 @@ const ModalStyle = makeStyles((theme) => ({
     borderRadius: 20,
     color: '#2f2f2f',
     [theme.breakpoints.down('lg')] : {
-      width: 'auto',
+      width: '350px',
     }
   },
 

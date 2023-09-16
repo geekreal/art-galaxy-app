@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <div
         style={{
-        position :"absolute",
+        // position :"absolute",
         bottom: "50px",
-        left: "42%",
+        // left: "42%",
         color: '#7f7f7f' ,}}
         className={classes.welcomeBox}>
         @by KED - Kossi E. DOTSEY
